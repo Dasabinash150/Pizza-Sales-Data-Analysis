@@ -32,7 +32,6 @@ The goal of this project is to analyze pizza sales data and derive insights that
 
 ## 📌 Project Highlights
 
-- Cleaned and transformed raw sales data using **Python (Pandas)**
 - Built an interactive **Power BI dashboard** with filters and slicers
 - Applied **DAX functions** to calculate KPIs and dynamic metrics
 - Designed a clean, responsive layout with intuitive visuals
@@ -41,19 +40,11 @@ The goal of this project is to analyze pizza sales data and derive insights that
 
 ## 📷 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard-preview.png)  
-*Note: Replace the image with your actual dashboard screenshot.*
+![Pizza Sales Dashboard](dashboard_image1.png)  
+![Pizza Sales Dashboard](dashboard_image2.png)  
+
 
 ---
 
-## 🚀 How to Use
 
-1. Clone the repository  
-2. Open the `.pbix` file in Power BI Desktop  
-3. Explore the report, adjust slicers, and interact with the visuals  
-4. Optionally, view the Jupyter notebook for the Python-based data cleaning
-
----
-
-## 📁 Folder Structure
 
