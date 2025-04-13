@@ -40,8 +40,8 @@ The goal of this project is to analyze pizza sales data and derive insights that
 
 ## 📷 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard_image1.png)  
-![Pizza Sales Dashboard](dashboard_image2.png)  
+[Pizza Sales Dashboard](Dashboard_image1.png)  
+[Pizza Sales Dashboard](Dashboard_image2.png)  
 
 
 ---
