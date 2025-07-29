@@ -34,7 +34,7 @@ The goal of this project is to analyze pizza sales data and derive insights that
 
 - Built an interactive **Power BI dashboard** with filters and slicers
 - Applied **DAX functions** to calculate KPIs and dynamic metrics
-- Designed a clean, responsive layout with intuitive visuals
+- Designed a clean, responsive layout with intuitive visual
 
 ---
 
